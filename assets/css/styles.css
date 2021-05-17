@@ -494,6 +494,10 @@ img {
   margin-bottom: var(--mb-1);
 }
 
+.certificate__description {
+  color: var(--text-color-light);
+}
+
 /*========== REFERENCES ==========*/
 .references__content {
   gap: .25rem;
